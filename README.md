@@ -4,4 +4,3 @@ Experiência em desenvolvimento low-code com Bubble e Glide, possibilitando a cr
 
 Habilidades: JavaScript, Python, SQL, Node.js, HTML, CSS, Bubble, Glide.
 
-![image](https://github.com/user-attachments/assets/7b212ef2-fa5a-4d55-95fc-8ac471b35400)
