@@ -46,15 +46,13 @@ Crio **sites, ERPs e aplicativos personalizados** que otimizam processos e impul
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogeniuss\&layout=compact\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nogeniuss\&theme=tokyonight\&hide_border=false\&border_radius=10)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+![GitHub Streak](https://streak-stats.demolab.com?user=nogeniuss\&theme=tokyonight\&hide_border=false\&border_radius=10)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nogeniuss\&theme=tokyonight\&hide_border=false\&border_radius=10)](https://git.io/streak-stats)
-
-</div>
+<br/>
 
 ---
 
