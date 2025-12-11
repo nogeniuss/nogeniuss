@@ -48,9 +48,9 @@ Crio **sites, ERPs e aplicativos personalizados** que otimizam processos e impul
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogeniuss\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats-nu-ten.vercel.app/api/top-langs/?username=nogeniuss&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nogeniuss\&theme=tokyonight\&hide_border=false\&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=nogeniuss&theme=tokyonight&hide_border=false&border_radius=10)
 
 <br/>
 
