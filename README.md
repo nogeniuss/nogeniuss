@@ -23,14 +23,19 @@ Crio **sites, ERPs, APIs e aplicativos personalizados** que otimizam processos e
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### **Bancos de Dados & ORMs**
+### **Bancos de Dados & Persistence Layer**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-*(Prisma, TypeORM, SQLAlchemy, Eloquent)*
 
-### **Ferramentas, Ecossistema & Dados**
+#### **ORMs & Data Mappers**
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71100?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Laravel Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### **DevOps, Utilitários & Dados**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -40,12 +45,12 @@ Crio **sites, ERPs, APIs e aplicativos personalizados** que otimizam processos e
 
 ## 📐 Engenharia, Arquitetura & Boas Práticas
 
-Minhas soluções são desenhadas aplicando padrões de projeto modernos e arquitetura limpa:
+Desenvolvo aplicações focadas em escalabilidade, manutenibilidade e padrões de projetos consolidados:
 
 * **Arquiteturas Aplicadas:** Clean Architecture (Hexagonal), Monolito Modular, Serverless/Jamstack, Event-Driven Architecture e Pipe & Filter.
 * **Design Patterns:** Strategy, Repository, Observer, Adapter, Factory, Singleton e Decorator.
-* **Conceitos de Engenharia:** Multi-tenancy, RBAC (Controle de Acesso), Webhooks, Processamento Assíncrono/Filas, Comunicação em Tempo Real (WebSockets), Type-Safety de ponta a ponta e Documentação de APIs (OpenAPI/Swagger).
-* **Automação & Scraping:** Extração, parsing e tratamento estruturado de dados via *Playwright*, *BeautifulSoup4* e *Pandas*.
+* **Conceitos de Engenharia:** Multi-tenancy, RBAC (Controle de Acesso Baseado em Funções), Webhooks, Processamento Assíncrono/Filas, Comunicação em Tempo Real (WebSockets), Type-Safety de ponta a ponta e Documentação de APIs (OpenAPI/Swagger).
+* **Automação & Scraping:** Extração, parsing e tratamento estruturado de dados utilizando *Playwright*, *BeautifulSoup4* e *Pandas*.
 
 ---
 
